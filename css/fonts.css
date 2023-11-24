@@ -1,0 +1,48 @@
+@import url(@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+body{
+	background-color: lightgreen
+
+	}
+	p{
+		font-size: 40px;
+	}
+.p5{
+	color: pink;
+	background: linear-gradient(purple,violet);
+	text-align: center;
+	font-style: italic;
+}
+}
+
+.p2{
+font-family: cursive;
+color: orange;
+font-weight: 700;
+}
+.p3{
+font-family: 'Alumni Sans Collegiate One', sans-serif;
+color: orange;
+text-shadow: red 2px 5px;
+}
+.p4{
+	font-family: 'Roboto Slab', serif;
+	text-decoration: underline;text-shadow: red 2px 5px;
+	text-shadow: red 2px 5px;
+}
+.p8{
+	font-family: 'Roboto Slab', serif;
+	text-decoration: underline;
+	taxt-shadow: 0 0 10px yellow;
+	}
+	.s1{
+		font-size: 2ex;
+	}
+	.p9{
+	color: pink;
+	background: linear-gradient(purple,violet);
+	text-align: center;
+	font-style: italic;
+}
+.p12{
+font-family: 'Caveat', cursive;
+color: orange;
